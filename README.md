@@ -1,6 +1,6 @@
 <h1>Djimbo ❤</h1>
 
-I **am**.
+**I am**.
 
 - 🌱 Only Python.
 - 💬 You can contact me via:
