@@ -14,4 +14,4 @@ sudo apt-get install python3.9-distutils -y &&
 python3.9 -m pip install pip --upgrade &&
 python3.9 -m pip install distlib --upgrade &&
 python3.9 -m pip install setuptools --upgrade &&
-python3.9 -m pip install cffi --upgrade &&
+python3.9 -m pip install cffi --upgrade
