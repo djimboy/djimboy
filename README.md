@@ -10,7 +10,7 @@
 ![html](https://img.shields.io/badge/-html-000000?style=for-the-badge&logo=html)
 ![css](https://img.shields.io/badge/-css-000000?style=for-the-badge&logo=css)
 
-### Tools
+### Stack
 ![Aiogram](https://img.shields.io/badge/-aiogram-000000?style=for-the-badge&logo=telegram)
 ![Pyrogram](https://img.shields.io/badge/-pyrogram-000000?style=for-the-badge&logo=telegram)
 ![Aiohttp](https://img.shields.io/badge/-aiohttp-000000?style=for-the-badge&logo=aiohttp)
@@ -20,9 +20,20 @@
 ![i18n](https://img.shields.io/badge/-i18n-000000?style=for-the-badge&logo=i18n)
 ![API](https://img.shields.io/badge/-api-000000?style=for-the-badge&logo=api)
 
+### Stack
+![Linux](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/-windows-000000?style=for-the-badge&logo=windows)
+![MacOS](https://img.shields.io/badge/-macos-000000?style=for-the-badge&logo=macos)
+![GitHub](https://img.shields.io/badge/-github-000000?style=for-the-badge&logo=github)
+![Git](https://img.shields.io/badge/-git-000000?style=for-the-badge&logo=git)
+![Nginx](https://img.shields.io/badge/-nginx-000000?style=for-the-badge&logo=nginx)
+![Apache](https://img.shields.io/badge/-apache-000000?style=for-the-badge&logo=apache)
+![Docker](https://img.shields.io/badge/-docker-000000?style=for-the-badge&logo=docker)
+
 ### Databases
 ![SQLite](https://img.shields.io/badge/-sqlite-000000?style=for-the-badge&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-mongodb-000000?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=postgresql)
 ![SQLAlchemy](https://img.shields.io/badge/-sqlalchemy-000000?style=for-the-badge&logo=sqlalchemy)
 
