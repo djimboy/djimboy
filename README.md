@@ -15,11 +15,11 @@
 ![Pyrogram](https://img.shields.io/badge/-pyrogram-000000?style=for-the-badge&logo=telegram)
 ![Aiohttp](https://img.shields.io/badge/-aiohttp-000000?style=for-the-badge&logo=aiohttp)
 ![Flask](https://img.shields.io/badge/-flask-000000?style=for-the-badge&logo=flask)
+![SQLAlchemy](https://img.shields.io/badge/-sqlalchemy-000000?style=for-the-badge&logo=sqlalchemy)
 ![APScheduler](https://img.shields.io/badge/-apscheduler-000000?style=for-the-badge&logo=apscheduler)
 ![Httpx](https://img.shields.io/badge/-httpx-000000?style=for-the-badge&logo=httpx)
 ![i18n](https://img.shields.io/badge/-i18n-000000?style=for-the-badge&logo=i18n)
 ![API](https://img.shields.io/badge/-api-000000?style=for-the-badge&logo=api)
-![SQLAlchemy](https://img.shields.io/badge/-sqlalchemy-000000?style=for-the-badge&logo=sqlalchemy)
 
 ### Tools
 ![Linux](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux)
