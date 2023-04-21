@@ -41,6 +41,7 @@
 <br />
 <br />
 
-**I am**.
-- 💬 You can contact me via:
-  - ✉ TG - <a href='https://t.me/DJIMBOX'>DJIMBOX</a>
+## Me
+- [![Github](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=GitHub)](https://github.com/djimoy)
+- [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=for-the-badge&logo=Telegram)](https://t.me/djimbox)
+
