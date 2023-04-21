@@ -19,8 +19,9 @@
 ![Httpx](https://img.shields.io/badge/-httpx-000000?style=for-the-badge&logo=httpx)
 ![i18n](https://img.shields.io/badge/-i18n-000000?style=for-the-badge&logo=i18n)
 ![API](https://img.shields.io/badge/-api-000000?style=for-the-badge&logo=api)
+![SQLAlchemy](https://img.shields.io/badge/-sqlalchemy-000000?style=for-the-badge&logo=sqlalchemy)
 
-### Stack
+### Tools
 ![Linux](https://img.shields.io/badge/-linux-000000?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/-windows-000000?style=for-the-badge&logo=windows)
 ![MacOS](https://img.shields.io/badge/-macos-000000?style=for-the-badge&logo=macos)
@@ -35,7 +36,6 @@
 ![MySQL](https://img.shields.io/badge/-mysql-000000?style=for-the-badge&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-mongodb-000000?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-postgresql-000000?style=for-the-badge&logo=postgresql)
-![SQLAlchemy](https://img.shields.io/badge/-sqlalchemy-000000?style=for-the-badge&logo=sqlalchemy)
 
 <br />
 <br />
