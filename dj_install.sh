@@ -5,6 +5,7 @@ sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-
 sudo apt install software-properties-common &&
 sudo add-apt-repository ppa:deadsnakes/ppa -y &&
 
+sudo apt-get install supervisor -y &&
 sudo apt-get install screen -y &&
 sudo apt-get install python3.9 -y &&
 sudo apt-get install python3-pip -y &&
