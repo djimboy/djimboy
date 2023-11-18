@@ -12,6 +12,10 @@ sudo apt-get install python3-pip -y &&
 sudo apt-get install python3.9-dev -y &&
 sudo apt-get install python3.9-distutils -y &&
 
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.9 1 &&
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.9 2 &&
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.9 3 &&
+
 python3.9 -m pip install pip --upgrade &&
 python3.9 -m pip install distlib --upgrade &&
 python3.9 -m pip install setuptools --upgrade &&
