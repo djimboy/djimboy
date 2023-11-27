@@ -7,16 +7,16 @@ sudo add-apt-repository ppa:deadsnakes/ppa -y &&
 
 sudo apt-get install supervisor -y &&
 sudo apt-get install screen -y &&
-sudo apt-get install python3.9 -y &&
+sudo apt-get install python3.10 -y &&
 sudo apt-get install python3-pip -y &&
-sudo apt-get install python3.9-dev -y &&
-sudo apt-get install python3.9-distutils -y &&
+sudo apt-get install python3.10-dev -y &&
+sudo apt-get install python3.10-distutils -y &&
 
 sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.9 1 &&
 sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.9 2 &&
 sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.9 3 &&
 
-python3.9 -m pip install pip --upgrade &&
-python3.9 -m pip install distlib --upgrade &&
-python3.9 -m pip install setuptools --upgrade &&
-python3.9 -m pip install cffi --upgrade
+python3.10 -m pip install pip --upgrade &&
+python3.10 -m pip install distlib --upgrade &&
+python3.10 -m pip install setuptools --upgrade &&
+python3.10 -m pip install cffi --upgrade
