@@ -18,7 +18,8 @@ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.10 1 
 sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.10 2 &&
 sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.10 3 &&
 
-python3.10 -m pip install pip --upgrade &&
-python3.10 -m pip install distlib --upgrade &&
-python3.10 -m pip install setuptools --upgrade &&
-python3.10 -m pip install cffi --upgrade
+python3.10 -m pip install --upgrade pip &&
+python3.10 -m pip install --upgrade distlib &&
+python3.10 -m pip install --upgrade setuptools &&
+python3.10 -m pip install --upgrade setuptools[core] &&
+python3.10 -m pip install --upgrade cffi
