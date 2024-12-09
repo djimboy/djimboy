@@ -7,6 +7,8 @@ sudo add-apt-repository ppa:deadsnakes/ppa -y &&
 
 sudo apt-get install supervisor -y &&
 sudo apt-get install screen -y &&
+sudo apt-get install p7zip-full -y &&
+sudo apt-get install unzip -y &&
 sudo apt-get install python3.10 -y &&
 sudo apt-get install python3-pip -y &&
 sudo apt-get install python3.10-dev -y &&
