@@ -20,6 +20,6 @@ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.10 3 
 
 python3.10 -m pip install --upgrade pip &&
 python3.10 -m pip install --upgrade distlib &&
-python3.10 -m pip install --upgrade setuptools &&
+python3.10 -m pip install --upgrade setuptools==69.5.1 &&
 python3.10 -m pip install --upgrade setuptools[core] &&
 python3.10 -m pip install --upgrade cffi
