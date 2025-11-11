@@ -9,14 +9,14 @@ sudo apt install supervisor -y &&
 sudo apt install screen -y &&
 sudo apt install p7zip-full -y &&
 sudo apt install unzip -y &&
-sudo apt install python3.10 -y &&
+sudo apt install python3.11 -y &&
 sudo apt install python3-pip -y &&
-sudo apt install python3.10-dev -y &&
-sudo apt install python3.10-distutils -y &&
+sudo apt install python3.11-dev -y &&
+sudo apt install python3.11-distutils -y &&
 
-sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.10 1 &&
-sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.10 2 &&
-sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.10 3 &&
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.11 1 &&
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.11 2 &&
+sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.11 3 &&
 
 python3.10 -m pip install --upgrade pip &&
 python3.10 -m pip install --upgrade distlib &&
