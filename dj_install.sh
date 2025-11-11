@@ -18,7 +18,7 @@ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.11 1 
 sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.11 2 &&
 sudo update-alternatives --install /usr/bin/python python /usr/bin/python3.11 3 &&
 
-python3.10 -m pip install --upgrade pip &&
-python3.10 -m pip install --upgrade distlib &&
-python3.10 -m pip install --upgrade setuptools==69.5.1 &&
-python3.10 -m pip install --upgrade cffi
+python3.11 -m pip install --upgrade pip &&
+python3.11 -m pip install --upgrade distlib &&
+python3.11 -m pip install --upgrade setuptools==69.5.1 &&
+python3.11 -m pip install --upgrade cffi
